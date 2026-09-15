@@ -27,18 +27,33 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 - **Distribution:** Promoted continuously via email automation, website, and social media — an always-on offer, not a launch-only one.
 - **Contents:** TBD (curriculum/module breakdown not yet defined here)
 
-## Premium Service #1 — The Shadow Initiation — $497
+## Premium Service #1 — The Shadow Initiation — $497 (Weeks 1-4)
 
 - **Format:** Asynchronous — video, email, and distant service (Reiki, somatic healing, and an astrology report on Pluto and Chiron placements), delivered through The VINE Method™.
+- **Length:** 4 weeks.
 - **Position:** Entry point into the premium 1:1 path.
+- **Week-by-week breakdown for Weeks 1-4:** not yet documented here — see Still Open below. Known so far: includes a first remote Reiki healing session at some point in these 4 weeks (confirmed by Immersion's Week 5 being explicitly the *second* Reiki session).
 
-## Premium Service #2 — The Shadow Immersion — $797
+## Premium Service #2 — The Shadow Immersion — $797 (Weeks 1-6)
 
-- **Format:** Same delivery model as Shadow Initiation (video, email, distant Reiki/somatic/astrology work).
-- **Position:** The deeper follow-on after Shadow Initiation.
-- **What specifically differs from Initiation** (session count, timeframe, depth of astrology work, etc.) is not yet documented here — worth defining once sales page copy is written for each, so the $497 → $797 step-up is easy for a client to justify.
+Immersion is not a separate curriculum — it's **Shadow Initiation's full 4 weeks, plus 2 additional weeks (5-6)** of deeper, more personalized work. That's what justifies the $497 → $797 step-up: two more weeks of real, distinct deliverables, not just a higher price on the same thing.
+
+**Week 5 adds:**
+- Second remote Reiki healing session
+- Personalized Jungian reflection prompts and integration practices, built around the specific themes that emerged during Weeks 1-4
+- A custom meditation recording
+- Mid-journey personal reflection email
+
+**Week 6 adds:**
+- Full Astrology Integration reading
+- Final integration email
+- A second custom meditation recording
+- Sacred closing email
+- A 90-day post-journey follow-up email
+
+This week-by-week list is exactly what a Shadow Immersion sales page should show side-by-side against Shadow Initiation — it makes the extra $300 self-evidently worth it rather than an arbitrary upcharge.
 
 ## Still Open (not blocking, useful before sales pages are written)
 
 - Curriculum outline for Cosmic Shadow Lunar Series.
-- The concrete difference in scope between Shadow Initiation and Shadow Immersion (beyond price) — this is what will make the upsell from one to the other feel obvious rather than arbitrary.
+- **Week-by-week breakdown for Shadow Initiation's Weeks 1-4** — since Immersion is now fully documented as "Initiation + Weeks 5-6," having Initiation's own weekly structure written out the same way would let both sales pages be built from this file directly.
