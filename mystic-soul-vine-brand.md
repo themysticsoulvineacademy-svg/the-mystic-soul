@@ -9,6 +9,8 @@ Purpose of this file: one place holding the current, approved wording for who Et
 
 The Academy name change signals the real plan: this isn't just a coaching practice, it's building toward **courses, a paid community, and digital products** sold under The Mystic Soul Vine Academy. Every content and offer decision going forward should be evaluated against this — does it lead someone toward a course, community membership, or digital product, not just toward 1:1 coaching.
 
+Full pricing and structure lives in `offer-ladder.md`. Summary: two free lead magnets (The Inner Alchemy checklist, The Soul Gift Clarity Workbook) feed two independent paths — a premium 1:1 VINE Method path (Shadow Initiation $497 → Shadow Immersion $797) and a standalone low-cost course (Cosmic Shadow Lunar Series, $37) promoted everywhere but never required before the premium path.
+
 ## My Story
 
 I didn't arrive here through theory. I arrived here through a painful upbringing and relationship patterns I repeated long after I knew better — until the signs became too loud to ignore.
@@ -58,7 +60,11 @@ All coaching happens asynchronously, through personal video and email. Clients d
 ## Standing Links
 
 - VINE Method™: https://etta.newzenler.com/home/
-- Free Soul Gift Clarity Workbook: [insert link] — coming soon
+- Free lead magnet — The Inner Alchemy (checklist): [insert link]
+- Free lead magnet — Soul Gift Clarity Workbook: [insert link] — coming soon
+- Course — Cosmic Shadow Lunar Series ($37): [insert link]
+- Premium package — The Shadow Initiation ($497): [insert link]
+- Premium package — The Shadow Immersion ($797): [insert link]
 - Facebook community (The Mystic Soul Vine: Multi-Passionate Women Rising): https://bit.ly/4uAbXOS
 - YouTube: https://youtube.com/@themysticsoulvineacad.3205
 - New video cadence: every Wednesday
