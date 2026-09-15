@@ -17,9 +17,9 @@ Cosmic Shadow is **not a required step** before the VINE Method packages — som
 ## Community — Two Separate Tiers
 
 - **Public / free:** Facebook group, "The Mystic Soul Vine: Multi-Passionate Women Rising" — open community, top-of-funnel, anyone can join.
-- **Private / paid-bonus:** The Private Inner Alchemy Circle — a Zenler community exclusive to VINE Method participants (Shadow Initiation and Shadow Immersion clients), for continued reflection, integration, encouragement, and connection after the weekly emails/sessions end. Confirmed included in both packages — Immersion's own copy states "Everything in The Shadow Initiation PLUS," so the bonus carries over automatically.
+- **Private / paid-bonus:** The Private Inner Alchemy Circle — a Zenler community, access granted once someone joins The VINE Method™ (Shadow Initiation or Shadow Immersion). Confirmed included in both packages — Immersion's own copy states "Everything in The Shadow Initiation PLUS," so the bonus carries over automatically.
 
-Note: "Inner Alchemy" now names two different things — the free checklist lead magnet and this private paid community. Worth double-checking that dual use is intentional rather than a naming collision that could confuse clients.
+**Naming resolved:** intentional, not a collision. "The Inner Alchemy" is the free checklist; "The Inner Alchemy Circle" is the deeper private space unlocked once someone commits to the VINE Method. The shared name is a feature, not a bug — it reads as one continuous thread from free tool to committed-client community.
 
 ## Free Lead Magnets (two, both live)
 
@@ -32,7 +32,16 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 
 - **Position:** Low-cost, standalone. Not a prerequisite for the VINE Method packages.
 - **Distribution:** Promoted continuously via email automation, website, and social media — an always-on offer, not a launch-only one.
-- **Contents:** TBD (curriculum/module breakdown not yet defined here)
+- **Curriculum — 8 modules:**
+  1. The Dark Womb
+  2. The Seedling
+  3. Relationships & Patterns
+  4. Control & Surrender
+  5. Life Purpose & Visibility
+  6. Abundance & Receiving
+  7. Forgiveness & Release
+  8. Integration & Wholeness
+- **Course Bonuses:** a "Recommended Course Bonuses" section exists in the source material but its actual contents weren't included when this was pasted in — only the header. Add the real bonus list here once available.
 
 ## Premium Service #1 — The Shadow Initiation — $497 (Weeks 1-4)
 
@@ -57,10 +66,13 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 - **Bonus:** Private Inner Alchemy Circle community access (see Community section below)
 
 **Week 4 — Evolve**
-- Synchronicity and Sacred Signs Reading — personalized exploration of what's showing up and what it may be inviting you to notice, reflect on, or explore more deeply right now *(completed this sentence — confirm wording)*
+- Synchronicity and Sacred Signs Reading — personalized exploration of what's showing up and what it may be inviting you to notice, reflect on, or explore more deeply right now
 - Integration Email — weaves the four-week journey into one cohesive healing narrative
 - Custom Guided Meditation: *Emerging Into Wholeness*
 - Sacred Closing Email — a personal, heartfelt closing message from Etta
+- **30-Day Post-Journey Email** — sent 30 days after completion, checking in on integration
+
+**Week 4 is the natural end of the container — this is the moment to invite the client to go deeper into Shadow Immersion if she wants to continue.** The Sacred Closing Email (or a follow-up touch) is the right place for that soft invitation.
 
 **Everything included, consolidated:**
 - 4 weekly shadow work emails
@@ -69,6 +81,7 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 - 1 remote Reiki healing session (video recording + personal notes)
 - 1 synchronicity and sacred signs reading
 - 1 sacred closing email from Etta
+- 1 thirty-day post-journey follow-up email
 - Bonus: Private Inner Alchemy Circle community access
 
 **Pricing:** $497 in full, or a payment plan of 2 payments of $259.
@@ -91,9 +104,9 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 - Final Integration Email — a complete, personal summary of the entire 6-week journey and everything that emerged
 - Custom Guided Meditation: *Living From Wholeness*
 - Sacred Closing Ritual Email — a ceremonial, heartfelt closing of the healing container
-- Post-Journey Follow-Up Email, sent after completion — **see discrepancy flagged below (90 days vs. 30 days)**
+- **90-Day Post-Journey Email** — sent 90 days after completion, checking in on integration
 
-**Everything included, consolidated (as written):**
+**Everything included, consolidated:**
 - 6 deeply personal weekly shadow work emails
 - 1 personalized astrology shadow report — Pluto and Chiron
 - 1 full astrology integration reading
@@ -102,23 +115,24 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 - 1 synchronicity and sacred signs reading
 - 1 mid-journey personal reflection email
 - 1 sacred closing ritual email
-- 1 post-journey follow-up email (listed as "thirty day" here — see discrepancy below)
+- 1 ninety-day post-journey follow-up email
 
 **Pricing:** $797 in full, or a payment plan of 2 payments of $399, or 3 payments of $266.
 **Enrollment:** Application-based — CTA is "Apply for The Shadow Immersion," same selective framing as Initiation.
 
-**⚠ Discrepancy to resolve:** the Week 6 breakdown names this the **"90 Day Post Journey Email,"** but the consolidated features list calls it the **"thirty day post journey follow up email."** These can't both be right — confirm whether the actual send timing is 30 days or 90 days after completion before this goes live anywhere.
+**Follow-up timing resolved:** Initiation's post-journey email sends at 30 days, Immersion's at 90 days — matched to each package's depth (see rationale in the intro discussion, logged in this repo's chat history: a shorter container gets a quicker check-in, a deep 6-week integration journey gets more time before revisiting).
 
 This week-by-week list is exactly what a Shadow Immersion sales page should show side-by-side against Shadow Initiation — it makes the extra $300 self-evidently worth it rather than an arbitrary upcharge.
 
-## Still Open (not blocking, but should be resolved before either sales page goes live)
+## Still Open
 
-- **90 vs. 30 days:** Shadow Immersion's final email is called both a "90 Day Post Journey Email" (Week 6 breakdown) and a "thirty day post journey follow up email" (consolidated list) — pick one.
-- Curriculum outline for Cosmic Shadow Lunar Series.
-- Confirm the Shadow Initiation Week 4 Synchronicity Reading sentence was completed correctly ("...explore more deeply right now").
-- Confirm whether "Inner Alchemy" is meant to name both the free checklist and the private paid community, or whether one should be renamed to avoid confusion.
+- **Cosmic Shadow Lunar Series "Recommended Course Bonuses"** — module list is complete, but the actual bonus contents weren't captured when this was pasted in (only the section header). Add whenever available.
 
 ## Completed
 - ~~Week-by-week breakdown for Shadow Initiation's Weeks 1-4~~ — done.
 - ~~Week-by-week breakdown for Shadow Immersion's Weeks 5-6~~ — done.
-- ~~Confirm Private Inner Alchemy Circle bonus applies to Immersion~~ — confirmed yes.
+- ~~Confirm Private Inner Alchemy Circle bonus applies to Immersion~~ — confirmed yes, carries over automatically.
+- ~~90 vs. 30 days~~ — resolved: Initiation = 30-day follow-up, Immersion = 90-day follow-up, matched to each package's depth.
+- ~~Shadow Initiation Week 4 sentence~~ — confirmed correct as written.
+- ~~Inner Alchemy naming~~ — confirmed intentional: free checklist vs. private Circle unlocked at VINE Method enrollment.
+- ~~Cosmic Shadow Lunar Series curriculum~~ — 8-module outline added.
