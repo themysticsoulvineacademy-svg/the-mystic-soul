@@ -17,7 +17,7 @@ Cosmic Shadow is **not a required step** before the VINE Method packages — som
 ## Community — Two Separate Tiers
 
 - **Public / free:** Facebook group, "The Mystic Soul Vine: Multi-Passionate Women Rising" — open community, top-of-funnel, anyone can join.
-- **Private / paid-bonus:** The Private Inner Alchemy Circle — a Zenler community exclusive to VINE Method participants (Shadow Initiation and Shadow Immersion clients), for continued reflection, integration, encouragement, and connection after the weekly emails/sessions end. Currently included as a bonus in Shadow Initiation (and by inheritance, Shadow Immersion, since Immersion contains all of Initiation) — confirm this is meant to apply to Immersion too, since it wasn't explicitly restated there.
+- **Private / paid-bonus:** The Private Inner Alchemy Circle — a Zenler community exclusive to VINE Method participants (Shadow Initiation and Shadow Immersion clients), for continued reflection, integration, encouragement, and connection after the weekly emails/sessions end. Confirmed included in both packages — Immersion's own copy states "Everything in The Shadow Initiation PLUS," so the bonus carries over automatically.
 
 Note: "Inner Alchemy" now names two different things — the free checklist lead magnet and this private paid community. Worth double-checking that dual use is intentional rather than a naming collision that could confuse clients.
 
@@ -76,29 +76,49 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 
 ## Premium Service #2 — The Shadow Immersion — $797 (Weeks 1-6)
 
-Immersion is not a separate curriculum — it's **Shadow Initiation's full 4 weeks, plus 2 additional weeks (5-6)** of deeper, more personalized work. That's what justifies the $497 → $797 step-up: two more weeks of real, distinct deliverables, not just a higher price on the same thing.
+**Tagline:** "For the woman who is ready to go deeper."
+**Format:** A six-week deep shadow integration journey — the most comprehensive VINE Method™ experience offered.
+**Overview:** Everything in The Shadow Initiation, PLUS two additional weeks (5-6) for the woman who feels ready to move beyond awareness and explore the deeper patterns, emotions, and parts of herself asking to be seen. Confirms the Private Inner Alchemy Circle bonus carries over automatically, since Immersion = Initiation + more.
 
-**Week 5 adds:**
-- Second remote Reiki healing session
-- Personalized Jungian reflection prompts and integration practices, built around the specific themes that emerged during Weeks 1-4
-- A custom meditation recording
-- Mid-journey personal reflection email
+**Week 5 — Deepen**
+- Second Remote Reiki Healing Session — going deeper into what emerged during the first healing and the shadow work of Weeks 3-4
+- Deep Shadow Integration Experience — personalized Jungian reflection prompts and integration practices based on themes that emerged throughout the first four weeks
+- Custom Guided Meditation: *Descending Into the Depths*
+- Mid-Journey Personal Reflection Email — a personal message from Etta reflecting on what she has witnessed in the journey and what is emerging
 
-**Week 6 adds:**
-- Full Astrology Integration reading
-- Final integration email
-- A second custom meditation recording
-- Sacred closing email
-- A 90-day post-journey follow-up email
+**Week 6 — Embody, Living From Wholeness**
+- Full Astrology Integration Reading — a comprehensive reading pulling together Pluto, Chiron, and other shadow planets in the full context of the healing journey
+- Final Integration Email — a complete, personal summary of the entire 6-week journey and everything that emerged
+- Custom Guided Meditation: *Living From Wholeness*
+- Sacred Closing Ritual Email — a ceremonial, heartfelt closing of the healing container
+- Post-Journey Follow-Up Email, sent after completion — **see discrepancy flagged below (90 days vs. 30 days)**
+
+**Everything included, consolidated (as written):**
+- 6 deeply personal weekly shadow work emails
+- 1 personalized astrology shadow report — Pluto and Chiron
+- 1 full astrology integration reading
+- 6 custom core VINE meditations
+- 2 remote Reiki healing sessions — video recordings with personal notes
+- 1 synchronicity and sacred signs reading
+- 1 mid-journey personal reflection email
+- 1 sacred closing ritual email
+- 1 post-journey follow-up email (listed as "thirty day" here — see discrepancy below)
+
+**Pricing:** $797 in full, or a payment plan of 2 payments of $399, or 3 payments of $266.
+**Enrollment:** Application-based — CTA is "Apply for The Shadow Immersion," same selective framing as Initiation.
+
+**⚠ Discrepancy to resolve:** the Week 6 breakdown names this the **"90 Day Post Journey Email,"** but the consolidated features list calls it the **"thirty day post journey follow up email."** These can't both be right — confirm whether the actual send timing is 30 days or 90 days after completion before this goes live anywhere.
 
 This week-by-week list is exactly what a Shadow Immersion sales page should show side-by-side against Shadow Initiation — it makes the extra $300 self-evidently worth it rather than an arbitrary upcharge.
 
-## Still Open (not blocking, useful before sales pages are written)
+## Still Open (not blocking, but should be resolved before either sales page goes live)
 
+- **90 vs. 30 days:** Shadow Immersion's final email is called both a "90 Day Post Journey Email" (Week 6 breakdown) and a "thirty day post journey follow up email" (consolidated list) — pick one.
 - Curriculum outline for Cosmic Shadow Lunar Series.
-- Confirm the Week 4 Synchronicity Reading sentence was completed correctly ("...explore more deeply right now").
+- Confirm the Shadow Initiation Week 4 Synchronicity Reading sentence was completed correctly ("...explore more deeply right now").
 - Confirm whether "Inner Alchemy" is meant to name both the free checklist and the private paid community, or whether one should be renamed to avoid confusion.
-- Confirm the Private Inner Alchemy Circle bonus is included in Shadow Immersion too (not just Initiation).
 
 ## Completed
-- ~~Week-by-week breakdown for Shadow Initiation's Weeks 1-4~~ — done, see above.
+- ~~Week-by-week breakdown for Shadow Initiation's Weeks 1-4~~ — done.
+- ~~Week-by-week breakdown for Shadow Immersion's Weeks 5-6~~ — done.
+- ~~Confirm Private Inner Alchemy Circle bonus applies to Immersion~~ — confirmed yes.
