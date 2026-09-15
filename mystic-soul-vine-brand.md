@@ -3,7 +3,19 @@
 Owner: Etta
 Purpose of this file: one place holding the current, approved wording for who Etta serves and what she offers, so every platform (YouTube, Instagram, Facebook, website) says the same thing. Update this file first whenever the message changes, then copy the relevant section out to each platform.
 
-**Naming note:** standardized on "The Mystic Soul Vine Academy" (matches the website domain and YouTube handle). Your Facebook group is currently named "The Mystic Soul Vine: Multi-Passionate Women Rising" without "Academy" — that's the group's actual title so platform copy below still refers to it correctly, but if you want full consistency you'd rename the group itself.
+**Naming note (confirmed):** "The Mystic Soul Vine Academy" is the official name — recently changed specifically to support courses, community, and digital products under one umbrella. Your Facebook group is currently named "The Mystic Soul Vine: Multi-Passionate Women Rising" without "Academy" — that's the group's actual title so platform copy below still refers to it correctly, but if you want full consistency you'd rename the group itself.
+
+## Business Direction
+
+The Academy name change signals the real plan: this isn't just a coaching practice, it's building toward **courses, a paid community, and digital products** sold under The Mystic Soul Vine Academy. Every content and offer decision going forward should be evaluated against this — does it lead someone toward a course, community membership, or digital product, not just toward 1:1 coaching.
+
+## My Story
+
+I didn't arrive here through theory. I arrived here through a painful upbringing and relationship patterns I repeated long after I knew better — until the signs became too loud to ignore.
+
+A dead bird on a path. A number that wouldn't stop appearing. A knowing that had been in me the whole time, waiting to be trusted.
+
+That's the thread that runs through everything I offer now: shadow work, astrology, energy work, the language of signs — not as separate tools, but as one integrated way of coming home to yourself.
 
 ## Core Identity
 
@@ -50,10 +62,6 @@ All coaching happens asynchronously, through personal video and email. Clients d
 - Facebook community (The Mystic Soul Vine: Multi-Passionate Women Rising): https://bit.ly/4uAbXOS
 - YouTube: https://youtube.com/@themysticsoulvineacad.3205
 - New video cadence: every Wednesday
-
-## Open Gap
-
-Personal origin story (why Etta started this work, what led her to shadow integration) is not yet written. Add it here once available, then fold it into the website About page, after the credentials/method section.
 
 ---
 
@@ -105,6 +113,12 @@ Welcome to The Mystic Soul Vine Academy
 
 I am Etta — Shadow Integration Coach, Reiki Master Teacher, Metaphysical Healing Practitioner, and Doctorate of Metaphysics. I am the creator of The VINE Method™.
 
+I didn't arrive here through theory. I arrived here through a painful upbringing and relationship patterns I repeated long after I knew better — until the signs became too loud to ignore.
+
+A dead bird on a path. A number that wouldn't stop appearing. A knowing that had been in me the whole time, waiting to be trusted.
+
+That's the thread that runs through everything I offer now: shadow work, astrology, energy work, the language of signs — not as separate tools, but as one integrated way of coming home to yourself.
+
 I work at the intersection of Jungian psychology, astrology, Reiki, energy healing, somatic work, and sacred spiritual practice — holding space for those in the deepest and most transformative seasons of their lives.
 
 I now bring this full body of work to multi-passionate women who are ready to stop feeling scattered and build a soul-aligned business around their gifts.
@@ -132,5 +146,3 @@ All coaching happens asynchronously, through personal video and email — so you
 → Learn about the VINE Method™
 → Grab your FREE Soul Gift Clarity Workbook (coming soon)
 → Join our free community on Facebook: The Mystic Soul Vine — Multi-Passionate Women Rising
-
-[Personal origin story goes here once written — see Open Gap above]
