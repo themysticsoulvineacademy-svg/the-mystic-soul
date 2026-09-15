@@ -14,6 +14,13 @@ Free content → free lead magnet → **Cosmic Shadow Lunar Series ($37)**
 
 Cosmic Shadow is **not a required step** before the VINE Method packages — someone can buy it without ever booking a package, or book a package without ever taking the course. It's promoted continuously and everywhere (email automation, website, social media) as its own low-cost entry, independent of the premium path.
 
+## Community — Two Separate Tiers
+
+- **Public / free:** Facebook group, "The Mystic Soul Vine: Multi-Passionate Women Rising" — open community, top-of-funnel, anyone can join.
+- **Private / paid-bonus:** The Private Inner Alchemy Circle — a Zenler community exclusive to VINE Method participants (Shadow Initiation and Shadow Immersion clients), for continued reflection, integration, encouragement, and connection after the weekly emails/sessions end. Currently included as a bonus in Shadow Initiation (and by inheritance, Shadow Immersion, since Immersion contains all of Initiation) — confirm this is meant to apply to Immersion too, since it wasn't explicitly restated there.
+
+Note: "Inner Alchemy" now names two different things — the free checklist lead magnet and this private paid community. Worth double-checking that dual use is intentional rather than a naming collision that could confuse clients.
+
 ## Free Lead Magnets (two, both live)
 
 1. **The Inner Alchemy** — checklist. Promise: understanding spiritual signs, synchronicities, and Shadow.
@@ -29,10 +36,43 @@ Both are free giveaways, not a two-step sequence — either can be the first thi
 
 ## Premium Service #1 — The Shadow Initiation — $497 (Weeks 1-4)
 
-- **Format:** Asynchronous — video, email, and distant service (Reiki, somatic healing, and an astrology report on Pluto and Chiron placements), delivered through The VINE Method™.
-- **Length:** 4 weeks.
-- **Position:** Entry point into the premium 1:1 path.
-- **Week-by-week breakdown for Weeks 1-4:** not yet documented here — see Still Open below. Known so far: includes a first remote Reiki healing session at some point in these 4 weeks (confirmed by Immersion's Week 5 being explicitly the *second* Reiki session).
+**Tagline:** "For the woman who is ready to begin."
+**Format:** A four-week sacred shadow healing journey, asynchronous, moving through the four phases of The VINE Method™.
+**Overview:** An invitation into a deeper relationship with the parts of yourself that have been hidden, suppressed, or waiting to be understood.
+
+**Week 1 — Vision**
+- Personalized Astrology Shadow Report — Pluto and Chiron placements, interpreted for your current life transition and shadow patterns
+- Week 1 Shadow Work Email — prompts, exercises, and Jungian journal questions
+- Custom Guided Meditation: *Meeting Your Shadow Self*
+
+**Week 2 — Integrate**
+- Inner Child Reflection and Integration Email — personalized around themes that emerged in Week 1
+- Week 2 Shadow Work Prompts — deeper Jungian journal questions
+- Custom Guided Meditation: *Meeting Your Inner Child*
+
+**Week 3 — Nurture**
+- Remote Reiki Healing Session — delivered energetically, sent as a video recording with personalized notes on what came up
+- Somatic Reflection Practice — body-based grounding and awareness practices for emotional regulation and reflection
+- Custom Guided Meditation: *Grounding, Rest and Restoration*
+- **Bonus:** Private Inner Alchemy Circle community access (see Community section below)
+
+**Week 4 — Evolve**
+- Synchronicity and Sacred Signs Reading — personalized exploration of what's showing up and what it may be inviting you to notice, reflect on, or explore more deeply right now *(completed this sentence — confirm wording)*
+- Integration Email — weaves the four-week journey into one cohesive healing narrative
+- Custom Guided Meditation: *Emerging Into Wholeness*
+- Sacred Closing Email — a personal, heartfelt closing message from Etta
+
+**Everything included, consolidated:**
+- 4 weekly shadow work emails
+- 1 personalized astrology shadow report (Pluto and Chiron)
+- 4 custom guided meditation recordings, made specifically for the client
+- 1 remote Reiki healing session (video recording + personal notes)
+- 1 synchronicity and sacred signs reading
+- 1 sacred closing email from Etta
+- Bonus: Private Inner Alchemy Circle community access
+
+**Pricing:** $497 in full, or a payment plan of 2 payments of $259.
+**Enrollment:** Application-based — CTA is "Apply for The Shadow Initiation," not a direct checkout. Worth carrying that "apply" framing into all promotion of this package; it signals selectivity rather than an impulse buy.
 
 ## Premium Service #2 — The Shadow Immersion — $797 (Weeks 1-6)
 
@@ -56,4 +96,9 @@ This week-by-week list is exactly what a Shadow Immersion sales page should show
 ## Still Open (not blocking, useful before sales pages are written)
 
 - Curriculum outline for Cosmic Shadow Lunar Series.
-- **Week-by-week breakdown for Shadow Initiation's Weeks 1-4** — since Immersion is now fully documented as "Initiation + Weeks 5-6," having Initiation's own weekly structure written out the same way would let both sales pages be built from this file directly.
+- Confirm the Week 4 Synchronicity Reading sentence was completed correctly ("...explore more deeply right now").
+- Confirm whether "Inner Alchemy" is meant to name both the free checklist and the private paid community, or whether one should be renamed to avoid confusion.
+- Confirm the Private Inner Alchemy Circle bonus is included in Shadow Immersion too (not just Initiation).
+
+## Completed
+- ~~Week-by-week breakdown for Shadow Initiation's Weeks 1-4~~ — done, see above.
