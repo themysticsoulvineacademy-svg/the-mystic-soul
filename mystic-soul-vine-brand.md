@@ -87,8 +87,9 @@ All coaching happens asynchronously — through personal video and email — so 
 
 New videos every Wednesday — subscribe so you never miss one.
 
-→ Learn about the VINE Method™: https://etta.newzenler.com/home/
+→ Grab your FREE Inner Alchemy Checklist: [insert link]
 → Grab your FREE Soul Gift Clarity Workbook: [insert link] coming soon
+→ Learn about the VINE Method™: https://etta.newzenler.com/home/
 → Join our free community on Facebook — The Mystic Soul Vine: Multi-Passionate Women Rising: https://bit.ly/4uAbXOS
 
 ### Instagram Bio (150 character limit)
@@ -110,6 +111,7 @@ You were never meant to choose between your gifts. You were meant to rise with a
 
 Inside this group: weekly encouragement, first looks at new videos, and a place to be witnessed while you rise.
 
+→ Grab your FREE Inner Alchemy Checklist: [insert link]
 → New videos every Wednesday on YouTube: The Mystic Soul Vine Academy
 → Learn the VINE Method™: https://etta.newzenler.com/home/
 
@@ -149,6 +151,8 @@ You were never meant to choose between your gifts. You were meant to rise with a
 
 All coaching happens asynchronously, through personal video and email — so you can do this deep work on your own time, wherever you are, with no calls to schedule.
 
-→ Learn about the VINE Method™
+→ Grab your FREE Inner Alchemy Checklist
 → Grab your FREE Soul Gift Clarity Workbook (coming soon)
+→ Explore the Cosmic Shadow Lunar Series ($37) — an 8-module self-paced journey through the shadow themes that shape our lives
+→ Apply for The Shadow Initiation — a 4-week guided VINE Method™ journey ($497)
 → Join our free community on Facebook: The Mystic Soul Vine — Multi-Passionate Women Rising
