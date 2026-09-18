@@ -10,7 +10,9 @@ At ~30 views/video and ~4 videos/month, that's about **120 total monthly views**
 
 **The good news:** you already have 2,886 people who once cared enough to subscribe. That's an owned asset you can reach *without* depending on YouTube's algorithm — see "Fastest First Moves" below.
 
-**Second reality check: your email list is at 3 subscribers.** This reprioritizes everything above it. You have 2,886 people aware of you on YouTube, but almost none of them are on the one channel you actually own and control. YouTube can change its algorithm, suspend accounts, or simply stop showing your content — an email list can't be taken from you. **Growing this list from 3 is now the single highest-priority task in this entire plan, ahead of fixing YouTube distribution.** Worth checking directly: is the Inner Alchemy checklist opt-in actually live and linked anywhere right now? A list this small after years on YouTube suggests either the opt-in mechanism isn't working/discoverable yet, or list-building simply hasn't been a focus until now — either is fixable, but worth knowing which.
+**Second reality check: your email list is at 3 subscribers.** This reprioritizes everything above it. You have 2,886 people aware of you on YouTube, but almost none of them are on the one channel you actually own and control. YouTube can change its algorithm, suspend accounts, or simply stop showing your content — an email list can't be taken from you. **Growing this list from 3 is now the single highest-priority task in this entire plan, ahead of fixing YouTube distribution.**
+
+**Confirmed: the Inner Alchemy checklist opt-in is live and working.** That rules out the "broken mechanism" explanation entirely — this is a pure visibility problem, not a technical one. The checklist works; almost nobody has been pointed at it yet. That's actually the easiest kind of problem to have, because the fix is fully within your control and doesn't require building anything new — see "Do This Now," below.
 
 ## The Math: What $10k/Month Actually Requires
 
@@ -36,16 +38,17 @@ Working backward from "10 Shadow Initiation clients/month" as an example, using 
 
 **This is the real bottleneck, and it's not your offers — your offers are genuinely well-built.** It's top-of-funnel volume. That number (75k-150k monthly views) is a lot for most channels, which is exactly why relying on 1:1 premium sales alone to hit $10k is a heavy lift without either a much larger audience or a warmer, more targeted one.
 
-## Fastest First Moves (This Week — Free, Bypasses the Algorithm)
+## Do This Now (This Week — Free, Bypasses the Algorithm, No New Building Required)
 
-With only 3 people on your email list, the real first move is converting the audience you already have (2,886 YouTube subscribers, plus your Facebook group) into email subscribers — everything else in this plan depends on that list existing.
+The checklist works. The only job left is putting it in front of the people you already have:
 
-1. **Confirm the Inner Alchemy checklist opt-in actually works, end to end** — sign up for it yourself, on a phone, exactly as a stranger would. If there's any friction (broken link, confusing steps, a form that doesn't deliver the file), that alone could explain why 3 people are on the list despite years of YouTube presence.
-2. **Post to the YouTube Community tab** (if you're not already) — it reaches subscribers' feeds independently of whether they'd click a video, and takes 2 minutes. Use it to point straight at the checklist.
-3. **Post in your Facebook group** using the reflection-question template already in `content-funnel-plan.md`, and when people engage, follow up with the checklist link directly.
-4. **Pin the checklist link as a comment on your most-viewed recent videos**, not just new ones — old videos with any residual traffic are free, existing distribution you're not using yet.
+1. **Post to the YouTube Community tab today** — reaches subscribers' feeds independently of whether they'd click a video, takes 2 minutes. Point it straight at the checklist.
+2. **Pin the checklist link as a comment on every video you have** — not just new uploads. Old videos with any residual traffic are free, existing distribution sitting unused right now.
+3. **Post in your Facebook group** using the reflection-question template in `content-funnel-plan.md`, and drop the checklist link when people engage in the comments.
+4. **Add a YouTube end screen to your next video** pointing at the checklist — the single highest-leverage placement you likely aren't using yet, since it appears without anyone scrolling to the description.
+5. **Say the verbal CTA out loud in your next video** using the script already written in `content-funnel-plan.md` — this has probably never been tested yet if the list is still at 3.
 
-These four don't require fixing YouTube's algorithm first — they use channels and past content you already have.
+None of this requires new content, new tools, or fixing YouTube's algorithm — it's entirely about pointing existing traffic at something that already works.
 
 ## Fix Distribution First (Before Investing in More Content)
 
@@ -86,9 +89,10 @@ A recurring membership is still the standout of the three for reaching a stable 
 
 - YouTube: 2,886 subscribers, 25-40 views/video (~1% watch rate — distribution problem, see above)
 - Email list: 3 subscribers (priority #1 — see above)
+- Inner Alchemy checklist opt-in: **confirmed live and working** — this is a promotion problem, not a technical one
 - Open to: a membership and/or single-session offer, redesigned above to require no live interaction
 
 ## What I Still Need From You
 
-1. Is the Inner Alchemy checklist opt-in actually live and working right now, or still being set up?
-2. Roughly how consistent your Wednesday upload schedule has actually been over the last 2-3 months (any gaps?), and whether you're comfortable checking your YouTube Analytics impressions/click-through rate — that number will tell us whether the YouTube fix is thumbnails/titles or something deeper in discovery.
+1. Roughly how consistent your Wednesday upload schedule has actually been over the last 2-3 months (any gaps?), and whether you're comfortable checking your YouTube Analytics impressions/click-through rate — that number will tell us whether the YouTube fix is thumbnails/titles or something deeper in discovery.
+2. Once you've done a few of the "Do This Now" actions, let me know what happened to the email list number — that tells us whether visibility alone was the issue or whether something else (the checklist's own promise/appeal) needs adjusting too.
