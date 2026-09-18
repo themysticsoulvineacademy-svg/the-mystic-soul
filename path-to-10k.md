@@ -10,6 +10,8 @@ At ~30 views/video and ~4 videos/month, that's about **120 total monthly views**
 
 **The good news:** you already have 2,886 people who once cared enough to subscribe. That's an owned asset you can reach *without* depending on YouTube's algorithm — see "Fastest First Moves" below.
 
+**Second reality check: your email list is at 3 subscribers.** This reprioritizes everything above it. You have 2,886 people aware of you on YouTube, but almost none of them are on the one channel you actually own and control. YouTube can change its algorithm, suspend accounts, or simply stop showing your content — an email list can't be taken from you. **Growing this list from 3 is now the single highest-priority task in this entire plan, ahead of fixing YouTube distribution.** Worth checking directly: is the Inner Alchemy checklist opt-in actually live and linked anywhere right now? A list this small after years on YouTube suggests either the opt-in mechanism isn't working/discoverable yet, or list-building simply hasn't been a focus until now — either is fixable, but worth knowing which.
+
 ## The Math: What $10k/Month Actually Requires
 
 At your real prices, here's what different combinations look like:
@@ -36,13 +38,14 @@ Working backward from "10 Shadow Initiation clients/month" as an example, using 
 
 ## Fastest First Moves (This Week — Free, Bypasses the Algorithm)
 
-Your 2,886 subscribers are an owned asset. Reach them directly instead of hoping YouTube shows them your next video:
+With only 3 people on your email list, the real first move is converting the audience you already have (2,886 YouTube subscribers, plus your Facebook group) into email subscribers — everything else in this plan depends on that list existing.
 
-1. **Post to the YouTube Community tab** (if you're not already) — it reaches subscribers' feeds independently of whether they'd click a video, and takes 2 minutes. Use it to point straight at the Inner Alchemy checklist or workbook.
-2. **If you have any existing email list from past opt-ins,** email it directly this week with the free checklist/workbook — don't wait for the nurture sequence to be "fully set up," send something now.
-3. **Post in your Facebook group** using the reflection-question template already in `content-funnel-plan.md` — that's a direct, algorithm-independent channel too.
+1. **Confirm the Inner Alchemy checklist opt-in actually works, end to end** — sign up for it yourself, on a phone, exactly as a stranger would. If there's any friction (broken link, confusing steps, a form that doesn't deliver the file), that alone could explain why 3 people are on the list despite years of YouTube presence.
+2. **Post to the YouTube Community tab** (if you're not already) — it reaches subscribers' feeds independently of whether they'd click a video, and takes 2 minutes. Use it to point straight at the checklist.
+3. **Post in your Facebook group** using the reflection-question template already in `content-funnel-plan.md`, and when people engage, follow up with the checklist link directly.
+4. **Pin the checklist link as a comment on your most-viewed recent videos**, not just new ones — old videos with any residual traffic are free, existing distribution you're not using yet.
 
-These three don't require fixing anything about YouTube first — they use channels you already fully control.
+These four don't require fixing YouTube's algorithm first — they use channels and past content you already have.
 
 ## Fix Distribution First (Before Investing in More Content)
 
@@ -69,18 +72,23 @@ This diagnostic work is worth doing before recording more new content — more v
 - **The link-in-bio hub is still your biggest infrastructure gap** (flagged earlier in `content-funnel-plan.md`) — until that exists, Instagram traffic has nowhere real to land.
 - Everything else here depends on the funnel already built (`email-nurture-sequence.md`, `content-funnel-plan.md`) actually being live — if those haven't been implemented on your platforms yet, that's higher-leverage right now than creating new content.
 
-## Other Revenue Solutions Worth Considering
+## Other Revenue Solutions — Designed to Fit an Introvert, Fully Async
 
-You asked for other options — here are three that would genuinely change the math, not just add more of the same:
+You mentioned being an introvert. Good news: nothing below requires live video, live calls, or real-time group facilitation — every idea is built the same way your existing packages already work (recorded, written, on your own time), because that's not just a preference, it's the actual reason your current business model is sustainable for you.
 
-1. **A recurring membership.** One-off sales mean starting from zero every single month. A low-cost monthly membership (e.g., $27-47/month — ongoing shadow work prompts, a monthly group energy session, community access) creates revenue that compounds instead of resetting. Even 100 members at $37/month is $3,700/month that doesn't require new sales every month to maintain — it stacks on top of whatever Initiation/Immersion/Cosmic Shadow bring in that period.
-2. **A lower-ticket single session.** Right now the jump is $37 (course) straight to $497 (a 4-week application-based container). A single distant Reiki session or a single Pluto/Chiron astrology reading, priced around $97-150, gives people a middle step — lower commitment than Initiation, but real 1:1 contact with you, and often converts people who weren't ready to apply for a full package into future Initiation/Immersion clients.
-3. **A small-group live or recorded workshop** ($97-197, one-time). Everything you currently sell is fully personalized 1:1 — powerful, but it caps how many people you can serve per hour of your time. A workshop format (even asynchronous/recorded) lets you serve 20-50 people at once instead of one, at a price point between Cosmic Shadow and Shadow Initiation.
+1. **A recurring membership — async, not a live group.** Skip the "monthly live call" model most memberships default to. Instead: a monthly pre-recorded shadow-work drop (audio or video, recorded once, delivered on a schedule) plus ongoing access to the Inner Alchemy Circle for written reflection — no live component at all. $27-47/month. Even 100 members at $37/month is $3,700/month that doesn't require new sales every month to maintain, and it costs you no live energy to sustain.
+2. **A lower-ticket single session — already your format.** Your Reiki and astrology work is already delivered as a recording, not a live session. A single distant Reiki session or a single Pluto/Chiron astrology reading, priced around $97-150, is literally the same delivery method you already use in Shadow Initiation, just unbundled as a smaller entry point. No new skill or format required.
+3. **A small-group offer — recorded, not live.** Skip live webinars entirely. A pre-recorded mini-course or workshop ($97-197, one-time) you record once and sell repeatedly gets you the "serve many people per hour of work" leverage without ever being on a live call with strangers.
 
-None of these need to happen at once — but a recurring membership in particular is usually the single highest-leverage addition for someone trying to reach a stable monthly number, because it's the only piece of this that doesn't reset to zero every month.
+A recurring membership is still the standout of the three for reaching a stable number, because it's the only piece that doesn't reset to zero every month — and structured this way, it costs you the same async effort your business already runs on.
+
+## Current Status
+
+- YouTube: 2,886 subscribers, 25-40 views/video (~1% watch rate — distribution problem, see above)
+- Email list: 3 subscribers (priority #1 — see above)
+- Open to: a membership and/or single-session offer, redesigned above to require no live interaction
 
 ## What I Still Need From You
 
-1. **Current email list size**, if any — even "zero" is useful, it tells me whether the "Fastest First Moves" above are usable today or need to be built first.
-2. **Whether you want to explore adding a membership or single-session offer**, or focus purely on fixing distribution and scaling what already exists.
-3. Roughly how consistent your Wednesday upload schedule has actually been over the last 2-3 months (any gaps?), and whether you're comfortable checking your YouTube Analytics impressions/click-through rate — that number will tell us whether the fix is thumbnails/titles or something deeper in discovery.
+1. Is the Inner Alchemy checklist opt-in actually live and working right now, or still being set up?
+2. Roughly how consistent your Wednesday upload schedule has actually been over the last 2-3 months (any gaps?), and whether you're comfortable checking your YouTube Analytics impressions/click-through rate — that number will tell us whether the YouTube fix is thumbnails/titles or something deeper in discovery.
